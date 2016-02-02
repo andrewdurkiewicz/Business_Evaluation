@@ -1,0 +1,16 @@
+Types of errors
+	random errors and supidity lol
+approximation errors or algorithmic erros 
+	should decrease as you run more loops
+round off errors 
+	finite precision for floats 
+	not known exactly
+	can accumulate over time
+	fractions are not their exact decimal counterparts
+subtractive cancelation
+	given a = b - c
+	then the error adds up, and for a smaller a, we get a larger prefactor (b/a) (c/a), thus the error can be large still
+	given b~C we have the largest error possible. 
+
+	
+
