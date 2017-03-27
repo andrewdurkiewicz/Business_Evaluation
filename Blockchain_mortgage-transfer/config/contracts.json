@@ -1,0 +1,13 @@
+{
+  "default": {
+    "gas": "auto",
+    "contracts": {
+      "Deed": {
+        "deploy": false,
+        "args": [
+          99
+        ]
+      }
+    }
+  }
+}
